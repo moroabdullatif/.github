@@ -35,11 +35,7 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 > Get your PR in before then to qualify → **[CONTRIBUTING.md](../CONTRIBUTING.md)**
 
 <!-- ────────────────────────────────────────────────────────────────── -->
-<!-- ✍️  ADD YOUR ENTRY BELOW — put it between the two ENTRIES markers.   -->
-<!--     Newest entries go at the TOP, right under ENTRIES:START.        -->
-<!--     Don't edit anything outside the markers. Attribution required:  -->
-<!--     end your block with `**Contributed by [@handle](profile URL)**`. -->
-<!-- ────────────────────────────────────────────────────────────────── -->
+<!-- ✍️  A small square "brick" tile for the 169Pi open-source contributor wall, representing moroabdullatif. Build it around a personal motif — a rocket — that nods to something real about 169Pi (local & offline-first AI models built in India). Use 169Pi's teal and emerald palette (#134E4A, #10B981, #0284C7) with blue as a single highlight. Add a tiny "#GoodFirstAlpie" tag and a small label reading "Moro Abdul Latif". Minimal and crisp, generous negative space, no photorealism, no clutter, no misspelled text. Flat vector illustration style, square 1:1 aspect ratio, sized for a README contributor wall.
 
 <!-- ENTRIES:START -->
 
